@@ -1,2 +1,3 @@
-# universe-dar-bot
+universe-dar
+
 Bot for self-discovery
